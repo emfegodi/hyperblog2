@@ -5,3 +5,5 @@ este será el segundo commit
 3
 
 4
+
+Probando de nuevo los comandos reset y checkout
