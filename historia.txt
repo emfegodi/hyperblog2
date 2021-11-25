@@ -9,3 +9,5 @@ este será el segundo commit
 Probando de nuevo los comandos reset y checkout
 
 1
+
+2
