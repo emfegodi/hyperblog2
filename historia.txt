@@ -6,6 +6,9 @@ este será el segundo commit
 
 4
 
+Añadi texto linea 9 pero en rama experimento
+tambien uso la linea 10
+
 Experimento 1
 
 Experimento 2
