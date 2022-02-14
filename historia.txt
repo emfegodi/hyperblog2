@@ -8,6 +8,8 @@ este será el segundo commit
 
 Master 1
 
+Master 2
+
 Probando de nuevo los comandos reset y checkout
 
 1
